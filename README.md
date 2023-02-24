@@ -5,3 +5,8 @@ The objectives of this project are to:
 • Help investors to make right buy and sell decisions.
 • How ML techniques and algorithms can help in stock price predictions and be helpful for investors.
 • Validation of the model to assess and predict accurately based on the real time Stock data.
+
+
+#Description: This program uses Artificial Recurrent Neural Networks called Long Short Term Memory(LSTM) to predict the closing stock price 
+#Libraries used:
+pandas_datareader, numpy, pandas, sklearn.preprocessing, keras, keras.layers, matplotlib.pyplot
